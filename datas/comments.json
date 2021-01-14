@@ -1,0 +1,21 @@
+{
+    "comments": [
+    {
+        "id": 1,
+        "name": "toto",
+        "date": "01/12/2020",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet metus porttitor, elementum tortor in, aliquam augue. Morbi eget ex dui.",
+        "like": 4,
+        "dislike": 2
+    },
+    {
+        "id": 2,
+        "name": "Dede",
+        "date": "11/12/2020",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet metus porttitor, elementum tortor in, aliquam augue. Morbi eget ex dui.",
+        "like": 1,
+        "dislike": 4
+    }
+    ]
+}
+

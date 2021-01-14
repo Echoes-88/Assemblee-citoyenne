@@ -1,0 +1,21 @@
+.comments-container {
+    border: 1px solid;
+}
+
+.comment {
+    border: 1px solid;
+}
+
+.add-comment {
+
+    input[type=textarea] {
+        width: 100%;
+        height: 6rem;
+    }
+
+    button {
+        color: #ce4233;
+        padding: 0.5rem 1rem;
+        font-weight: bold;
+    }
+}
